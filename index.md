@@ -1,4 +1,6 @@
+---
 layout: home
-title: "Brad's blog (Under construction)"
+title: "Brad's blog (WIP)"
+---
 
-This is the homepage of my blog.
+This is a work in progress.
