@@ -1,9 +1,9 @@
-title: "My Blog"
+title: "Brad's blog"
 description: "A Markdown-powered blog"
 baseurl: "" # Leave blank unless your site is at a subpath
 url: "https://bradewin.github.io" # Replace with your real blog URL
 
-theme: minima
+theme: jekyll-theme-minimal
 
 markdown: kramdown
 highlighter: rouge
@@ -12,8 +12,7 @@ highlighter: rouge
 minima:
   skin: classic
   social_links:
-    github: your-github-username
-    twitter: your-twitter-handle
+    github: bradewin
 
 # Include any extra files/folders
 include:
