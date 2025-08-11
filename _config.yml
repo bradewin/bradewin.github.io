@@ -1,0 +1,26 @@
+title: "Brad's blog"
+description: "A Markdown-powered blog"
+baseurl: "" # Leave blank unless your site is at a subpath
+url: "https://bradewin.github.io" # Replace with your real blog URL
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+# Optional settings for minima theme
+minima:
+  skin: classic
+  social_links:
+    github: bradewin
+
+# Include any extra files/folders
+include:
+  - _pages
+
+# Exclude these from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
