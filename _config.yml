@@ -11,7 +11,6 @@ highlighter: rouge
 # Optional settings for minima theme
 minima:
   skin: classic
-  stylesheet: /assets/css/style.scss
 
 # Include any extra files/folders
 include:
