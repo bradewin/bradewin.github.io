@@ -11,8 +11,7 @@ highlighter: rouge
 # Optional settings for minima theme
 minima:
   skin: classic
-  social_links:
-    github: bradewin
+  stylesheet: /assets/css/style.scss
 
 # Include any extra files/folders
 include:
