@@ -3,7 +3,7 @@ description: "A Markdown-powered blog"
 baseurl: "" # Leave blank unless your site is at a subpath
 url: "https://bradewin.github.io" # Replace with your real blog URL
 
-theme: minima
+remote_theme: jekyll/minima@master
 
 markdown: kramdown
 highlighter: rouge
