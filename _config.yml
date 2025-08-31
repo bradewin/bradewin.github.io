@@ -8,10 +8,6 @@ remote_theme: jekyll/minima@master
 markdown: kramdown
 highlighter: rouge
 
-# Optional settings for minima theme
-minima:
-  skin: classic
-
 # Include any extra files/folders
 include:
   - _pages
