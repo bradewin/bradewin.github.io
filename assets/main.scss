@@ -1,0 +1,18 @@
+---
+---
+
+/* 1) Pick a skin first (classic, dark, auto, solarized, etc.) */
+@import "minima/skins/classic";
+
+/* 2) Load Minima */
+@import "minima/initialize";
+
+/* 3) Your overrides */
+html {
+  background-color: #FFF9EB;   /* your background */
+}
+
+/* Optional: keep body transparent so the html bg shows through */
+body {
+  background-color: transparent;
+}
