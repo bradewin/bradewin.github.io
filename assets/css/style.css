@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima";
+
+/* Custom overrides */
+body {
+  background-color: #FFF9EB; /* Change this to any color you want */
+}
